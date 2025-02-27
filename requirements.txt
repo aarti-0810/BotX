@@ -1,0 +1,13 @@
+beautifulsoup4==4.13.3
+certifi==2025.1.31
+charset-normalizer==3.4.1
+comtypes==1.4.10
+idna==3.10
+pillow==11.1.0
+pypiwin32==223
+pyttsx3==2.98
+pywin32==308
+requests==2.32.3
+soupsieve==2.6
+typing_extensions==4.12.2
+urllib3==2.3.0
