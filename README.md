@@ -11,9 +11,6 @@ A Python-powered bot with a GUI that automates daily tasks like playing games, s
 - ☁ Weather Information Fetcher  
 - 📰 News Aggregator  
 
-## 🎥 Screenshots  
-(Add your screenshots here)  
-
 ## 🖥️ Tech Stack  
 - **Python**  
 - **Tkinter** (GUI)  
